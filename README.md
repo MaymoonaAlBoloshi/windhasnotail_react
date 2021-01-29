@@ -1,3 +1,6 @@
+# what am I doing
+trying to set up react tailwind with storybook.. on preview things work but if build storyboook and publish it on Chromatic things look as agly as Ms. Semian form the amazing wold of gumball
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
