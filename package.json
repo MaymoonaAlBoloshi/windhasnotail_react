@@ -30,7 +30,8 @@
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 6006 -s public",
     "build:tailwind": "postcss src/scss/base.scss -o src/scss/tailwind.scss",
-    "build-storybook": "build-storybook -s public"
+    "build-storybook": "build-storybook -s public",
+    "chromatic": "npx chromatic --project-token 790b4ff2e743"
   },
   "eslintConfig": {
     "extends": [
@@ -56,6 +57,7 @@
     "@storybook/addon-links": "^6.1.11",
     "@storybook/node-logger": "^6.1.11",
     "@storybook/preset-create-react-app": "^3.1.5",
-    "@storybook/react": "^6.1.11"
+    "@storybook/react": "^6.1.11",
+    "chromatic": "^5.6.1"
   }
 }

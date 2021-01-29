@@ -41,6 +41,6 @@ export const ShortText = Template.bind({});
 ShortText.args = {
 	quote:
 		'hey!!',
-	author: 'someone who can talk',
+	author: 'someone who can talk.',
 	color: 'red',
 };
